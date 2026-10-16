@@ -1634,7 +1634,6 @@
     </param>
     <param id="sberIDAuthLoginHistoryEnabled">
 		<pair id="enabled">true</pair>
-		<pair id="url">android-app://ru.sberbankmobile_alpha/sberbankid/sso?webLink=https%3A%2F%2Fid.sber.ru%2Fprofile%3Fissbol%3Dtrue%26utm_medium%3Dreferral%26utm_source%3Dssbol%26utm_campaign%3Dssbol_profile_android&clientId=2679efe6-f358-4378-b328-45dfcc4a006a&openIn=webview&source=InfoPush</pair>
 	</param>
     <param id="sberIDSSOHostWhiteList" description="������ ���������� hosts ��� webview � ��������� SSO ���� ID">
         <pair id="enabled">false</pair>
